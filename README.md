@@ -9,7 +9,7 @@ This repository contains the following resources:
 
 ### 1. 📄 **Papers Collected from the Systematic Literature Review**
    - A collection of research papers and publications gathered during the systematic literature review. Below are the references for the paper. 
-      You can also find them [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/Papers%20set.pdf)
+      You can also find them [here](Papers set.pdf)
 
       - WAN, Chengcheng, LIU, Shicheng, HOFFMANN, Henry, et al. Are machine learning cloud APIs used correctly? In 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE). 2021.
         
@@ -98,19 +98,18 @@ This repository contains the following resources:
 ### 3. 📊 **Results of the Analysis of GitHub Projects**
    - This analysis identifies ML service misuses across the projects: [here](occurences.pdf).
      
-     You can find the detailed analysis [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/Detected%20Misuses.xlsx). 
- ![Alt text](https://github.com/ml-service-misuses/Replication_Package/blob/main/occurrence.png)
+     You can find the detailed analysis [here](occurrence.png)
 
 
 ### 4. 📋 **Pilot Interviews Responses (Anonymized)**
    - Responses collected from our pilot interviews.
    - The data has been anonymized to protect the privacy of participants.
-   - Provides valuable insights into participants' feedback on the survey, including remarks on its length, consistency, and any duplicate questions: [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/Pilot%20Interviews%20(r%C3%A9ponses).csv)
+   - Provides valuable insights into participants' feedback on the survey, including remarks on its length, consistency, and any duplicate questions: [here](Pilot Interviews (réponses).csv)
 
 ### 5. 📋 **Survey Responses (Anonymized)**
    - Responses collected from our survey.
    - The data has been anonymized to protect the privacy of participants.
-   - Provides valuable insights into developer perspectives on ML service misuses: [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/ML%20practitioners%20Survey%20(reponses).csv)
+   - Provides valuable insights into developer perspectives on ML service misuses: [here](ML practitioners Survey (reponses).csv)
 ## 🛠 Technologies & Tools Used
 
 - **Data Mining**: Python, GitHub API, StackOverflow API
