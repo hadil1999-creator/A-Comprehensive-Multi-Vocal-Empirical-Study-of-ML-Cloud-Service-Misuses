@@ -97,19 +97,19 @@ This repository contains the following resources:
 
 ### 3. 📊 **Results of the Analysis of GitHub Projects**
    - This analysis identifies ML service misuses across the projects: ([here](https://github.com/hadil1999-creator/A-Comprehensive-Multi-Vocal-Empirical-Study-of-ML-Cloud-Service-Misuses/blob/main/occurences.pdf)).
-     
-     You can find the detailed analysis [here](occurrence.png)
+ You can find detailed analysis here: ([here](https://github.com/hadil1999-creator/A-Comprehensive-Multi-Vocal-Empirical-Study-of-ML-Cloud-Service-Misuses/blob/main/Detected%20Misuses.xlsx)).
+
 
 
 ### 4. 📋 **Pilot Interviews Responses (Anonymized)**
    - Responses collected from our pilot interviews.
    - The data has been anonymized to protect the privacy of participants.
-   - Provides valuable insights into participants' feedback on the survey, including remarks on its length, consistency, and any duplicate questions: [here](Pilot Interviews (réponses).csv)
+   - Provides valuable insights into participants' feedback on the survey, including remarks on its length, consistency, and any duplicate questions: ([here](https://github.com/hadil1999-creator/A-Comprehensive-Multi-Vocal-Empirical-Study-of-ML-Cloud-Service-Misuses/blob/main/Pilot%20Interviews%20(r%C3%A9ponses).csv))
 
 ### 5. 📋 **Survey Responses (Anonymized)**
    - Responses collected from our survey.
    - The data has been anonymized to protect the privacy of participants.
-   - Provides valuable insights into developer perspectives on ML service misuses: [here](ML practitioners Survey (reponses).csv)
+   - Provides valuable insights into developer perspectives on ML service misuses: [here](https://github.com/hadil1999-creator/A-Comprehensive-Multi-Vocal-Empirical-Study-of-ML-Cloud-Service-Misuses/blob/main/ML%20practitioners%20Survey%20(reponses).csv)
 ## 🛠 Technologies & Tools Used
 
 - **Data Mining**: Python, GitHub API, StackOverflow API
