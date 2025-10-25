@@ -97,6 +97,7 @@ This repository contains the following resources:
 
 ### 3. 📊 **Results of the Analysis of GitHub Projects**
    - This analysis identifies ML service misuses across the projects: ([here](https://github.com/hadil1999-creator/A-Comprehensive-Multi-Vocal-Empirical-Study-of-ML-Cloud-Service-Misuses/blob/main/occurences.pdf)).
+     
  You can find detailed analysis here: ([here](https://github.com/hadil1999-creator/A-Comprehensive-Multi-Vocal-Empirical-Study-of-ML-Cloud-Service-Misuses/blob/main/Detected%20Misuses.xlsx)).
 
 
